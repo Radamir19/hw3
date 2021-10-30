@@ -50,6 +50,6 @@ public class HomeWork {
             System.out.println(arr[i]);
         }
         return arr;
-        
+
     }
 }
